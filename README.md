@@ -9,5 +9,4 @@ Tools Used:
 Features:
 - Calculate average marks
 - Find highest and lowest marks
-- Find lowest marks# student_marks_analysis
-Mini project using Python 
+- Simple and beginner-friendly analysis
