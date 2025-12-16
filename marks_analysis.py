@@ -1,4 +1,10 @@
-marks = [78, 85, 90, 66, 72]
+marks = []
+
+n = int(input("Enter number of students: "))
+
+for i in range(n):
+    mark = int(input(f"Enter marks of student {i+1}: "))
+    marks.append(mark)
 
 average = sum(marks) / len(marks)
 highest = max(marks)
